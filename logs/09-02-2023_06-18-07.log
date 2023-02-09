@@ -1,0 +1,2 @@
+2023-02-09 18:18:14.819 [main] INFO  core.Environment - Opening browser: chrome navigating to: https://practicesoftwaretesting.com/#/
+2023-02-09 18:18:38.300 [main] WARN  pages.BasePage - TimeoutException occurred!

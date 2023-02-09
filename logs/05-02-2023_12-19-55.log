@@ -1,0 +1,2 @@
+2023-02-05 00:20:03.843 [main] INFO  core.Environment - Opening browser: chrome navigating to: https://practicesoftwaretesting.com/#/
+2023-02-05 00:20:20.965 [main] WARN  pages.BasePage - Element could not be found By locator [By.xpath: //td[@class='col-md-2 align-middle']//input[@class='form-control quantity']] in specified time.

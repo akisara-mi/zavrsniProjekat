@@ -1,0 +1,3 @@
+2023-02-04 21:25:56.125 [main] INFO  core.Environment - Opening browser: chrome navigating to: https://practicesoftwaretesting.com/#/
+2023-02-04 21:26:06.807 [main] INFO  pages.BasePage - PASSED - Text found in element: My account MATCHES expected text: My account
+2023-02-04 21:26:06.881 [main] INFO  pages.BasePage - PASSED - Text found in element:  Profile MATCHES expected text: Profile
